@@ -1,5 +1,6 @@
 # ignore everything
 *
 
+# allow explicit
 !.gitignore
 !.vimrc
