@@ -1,6 +1,8 @@
 # ignore everything
-*
+.*
+!.config
 
 # allow explicit
 !.gitignore
 !.vimrc
+!.config/nvim

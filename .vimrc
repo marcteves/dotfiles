@@ -157,9 +157,6 @@ Plug 'ntpeters/vim-better-whitespace'
 " latex plugin
 Plug 'lervag/vimtex'
 
-" autocomplete
-Plug 'Valloric/YouCompleteMe'
-
 " ripgrep in quickfix
 Plug 'jremmen/vim-ripgrep'
 
